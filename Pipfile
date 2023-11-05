@@ -9,6 +9,11 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 seaborn = "*"
+beautifulsoup4 = "*"
+requests = "*"
+wikipedia = "*"
+wikipedia-api = "*"
+lxml = "*"
 
 [dev-packages]
 ipykernel = "*"
