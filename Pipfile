@@ -14,6 +14,7 @@ requests = "*"
 wikipedia = "*"
 wikipedia-api = "*"
 lxml = "*"
+igdb-api-v4 = "*"
 
 [dev-packages]
 ipykernel = "*"
