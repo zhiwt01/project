@@ -16,6 +16,7 @@ wikipedia-api = "*"
 lxml = "*"
 igdb-api-v4 = "*"
 protobuf = "*"
+unidecode = "*"
 
 [dev-packages]
 ipykernel = "*"
