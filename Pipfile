@@ -17,6 +17,9 @@ lxml = "*"
 igdb-api-v4 = "*"
 protobuf = "*"
 unidecode = "*"
+fuzzywuzzy = "*"
+install = "*"
+levenshtein = "*"
 
 [dev-packages]
 ipykernel = "*"
